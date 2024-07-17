@@ -4,18 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c3a6262-6911-4965-b0bb-036dc2bd6172" name="Changes" comment="" />
+    <list default="true" id="9c3a6262-6911-4965-b0bb-036dc2bd6172" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose-1.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose-2.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Deserializer/JSONValueDeserializationSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Deserializer/JSONValueDeserializationSchema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dto/SalesPerCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dto/SalesPerCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dto/SalesPerDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dto/SalesPerDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dto/SalesPerMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dto/SalesPerMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dto/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dto/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FlinkCommerce/DataStreamJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlinkCommerce/DataStreamJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/JsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/JsonUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2jHlK8EofhIXg3u9xGXITs8QKZG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,14 +51,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DataStreamJob.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.FlinkCommerce [clean].executor": "Run",
+    "Maven.FlinkCommerce [compile].executor": "Run",
+    "Maven.FlinkCommerce [package].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/allak/Desktop/FlinkCommerce/target/FlinkCommerce-1.0-SNAPSHOT.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\allak\Desktop\FlinkCommerce\SendingDataToKafkaTopic" />
+      <recent name="C:\Users\allak\Desktop\FlinkCommerce" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,11 +97,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721051819175</updated>
-      <workItem from="1721051820867" duration="15000" />
+      <workItem from="1721051820867" duration="5751000" />
+      <workItem from="1721128116945" duration="707000" />
+      <workItem from="1721131207940" duration="13973000" />
+      <workItem from="1721160143959" duration="3581000" />
+      <workItem from="1721163989701" duration="4772000" />
+      <workItem from="1721218774432" duration="4128000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
